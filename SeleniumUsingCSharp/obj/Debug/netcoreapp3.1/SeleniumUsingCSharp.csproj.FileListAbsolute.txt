@@ -1,0 +1,14 @@
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\bin\Debug\netcoreapp3.1\SeleniumUsingCSharp.exe
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\obj\Debug\netcoreapp3.1\SeleniumUsingCSharp.csprojAssemblyReference.cache
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\obj\Debug\netcoreapp3.1\SeleniumUsingCSharp.AssemblyInfoInputs.cache
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\obj\Debug\netcoreapp3.1\SeleniumUsingCSharp.AssemblyInfo.cs
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\bin\Debug\netcoreapp3.1\SeleniumUsingCSharp.deps.json
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\bin\Debug\netcoreapp3.1\SeleniumUsingCSharp.runtimeconfig.json
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\bin\Debug\netcoreapp3.1\SeleniumUsingCSharp.runtimeconfig.dev.json
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\bin\Debug\netcoreapp3.1\SeleniumUsingCSharp.dll
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\bin\Debug\netcoreapp3.1\SeleniumUsingCSharp.pdb
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\obj\Debug\netcoreapp3.1\SeleniumUsingCSharp.dll
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\obj\Debug\netcoreapp3.1\SeleniumUsingCSharp.pdb
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\jayakrishna.majji\source\repos\SeleniumUsingCSharp\SeleniumUsingCSharp\obj\Debug\netcoreapp3.1\SeleniumUsingCSharp.csproj.CopyComplete
